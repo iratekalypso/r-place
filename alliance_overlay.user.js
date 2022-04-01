@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         April Fools
 // @namespace    http://tampermonkey.net/
-// @version      0.6
+// @version      0.7
 // @description  Keep the canvas beautiful!
 // @author       /u/irate_kalypso
 // @match        https://hot-potato.reddit.com/embed*
