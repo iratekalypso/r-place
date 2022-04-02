@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         April Fools r/starwars_place Allies
 // @namespace    http://tampermonkey.net/
-// @version      3
+// @version      3.1
 // @description  Keep the canvas beautiful!
 // @author       oralekin from osu! /r/osuplace
 // @overlay maintainer /u/irate_kalypso /r/starwars_place
