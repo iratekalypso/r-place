@@ -13,7 +13,7 @@ if (window.top !== window.self) {
         document.getElementsByTagName("mona-lisa-embed")[0].shadowRoot.children[0].getElementsByTagName("mona-lisa-canvas")[0].shadowRoot.children[0].appendChild(
             (function () {
                 const i = document.createElement("img");
-                i.src = "https://cdn.discordapp.com/attachments/724673162842734662/959889603932848209/overlay_better_version_auto_update.png";
+                i.src = "https://cdn.discordapp.com/attachments/724673162842734662/959785137074221076/overlay_better_version_v5.2_forked_for_hk_with_petal_fix_and_color_tuning.png";
                 i.onload = () => {
                     if (i.width === i.height) {
                         i.style = "position: absolute;left: 0;top: 0;image-rendering: pixelated;width: 1000px;height: 1000px;";
