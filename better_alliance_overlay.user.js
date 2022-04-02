@@ -1,8 +1,7 @@
 // ==UserScript==
 // @name         April Fools r/starwars_place Allies
 // @namespace    http://tampermonkey.net/
-// @version      3.1
-// @version      3.5
+// @version      5.0
 // @description  Keep the canvas beautiful!
 // @author       oralekin from osu! /r/osuplace, maintainer /u/irate_kalypso /r/starwars_place
 // @match        https://hot-potato.reddit.com/embed*
