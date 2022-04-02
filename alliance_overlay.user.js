@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         April Fools
 // @namespace    http://tampermonkey.net/
-// @version      1.1
+// @version      1.2
 // @description  Keep the canvas beautiful!
 // @author       /u/irate_kalypso
 // @match        https://hot-potato.reddit.com/embed*
@@ -15,7 +15,7 @@ if (window.top !== window.self) {
             document.getElementsByTagName("mona-lisa-embed")[0].shadowRoot.children[0].getElementsByTagName("mona-lisa-canvas")[0].shadowRoot.children[0].appendChild(
         (function () {
             const i = document.createElement("img");
-            i.src = "https://cdn.discordapp.com/attachments/724673162842734662/959623639295201320/overlay_v3.5.png";
+            i.src = "https://cdn.discordapp.com/attachments/724673162842734662/959628051795283978/overlay_v3.5.png";
             i.style = "position: absolute;left: 0;top: 0;image-rendering: pixelated;width: 1000px;height: 1000px;";
             console.log(i);
             return i;
