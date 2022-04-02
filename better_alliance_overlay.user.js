@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         April Fools r/starwars_place Allies
 // @namespace    http://tampermonkey.net/
-// @version      2.5
+// @version      2.6
 // @description  Keep the canvas beautiful!
 // @author       oralekin from osu! /r/osuplace
 // @overlay maintainer /u/irate_kalypso /r/starwars_place
@@ -16,7 +16,7 @@ if (window.top !== window.self) {
             document.getElementsByTagName("mona-lisa-embed")[0].shadowRoot.children[0].getElementsByTagName("mona-lisa-canvas")[0].shadowRoot.children[0].appendChild(
         (function () {
             const i = document.createElement("img");
-            i.src = "https://cdn.discordapp.com/attachments/708198120617672734/959799536929349632/overlay_better_version_v6_school_of_athens_update.png";
+            i.src = "https://cdn.discordapp.com/attachments/708198120617672734/959801698170335282/Overlay_Raphael_School_of_Athens.png";
             i.style = "position: absolute;left: 0;top: 0;image-rendering: pixelated;width: 1000px;height: 1000px;";
             console.log(i);
             return i;
