@@ -16,7 +16,7 @@ if (window.top !== window.self) {
             document.getElementsByTagName("mona-lisa-embed")[0].shadowRoot.children[0].getElementsByTagName("mona-lisa-canvas")[0].shadowRoot.children[0].appendChild(
         (function () {
             const i = document.createElement("img");
-            i.src = "https://raw.githubusercontent.com/iratekalypso/r-place-2022/e8fe17680aefa701fcd20272d9556fa009e4457f/overlay_better_version_auto_update.png";
+            i.src = "https://raw.githubusercontent.com/iratekalypso/r-place-2022/main/overlay_better_version_auto_update.png";
             i.style = "position: absolute;left: 0;top: 0;image-rendering: pixelated;width: 1000px;height: 1000px;";
             console.log(i);
             return i;
