@@ -1,7 +1,7 @@
 {
     "templates": [
         {
-            "name": "starwars_place",
+            "name": "r/starwars_place",
             "sources": [
                 "https://raw.githubusercontent.com/iratekalypso/r-place/main/esb_40_160x128_NearNeigh.png"
             ],
@@ -15,7 +15,7 @@
             "url": "https://gist.githubusercontent.com/LittleEndu/318ed120e92150b2a45690bd2de672d1/raw/clock.json"
         },
         {
-            "name": "self reference (cyclical import check)",
+            "name": "r/ousplace",
             "url": "https://rentry.org/osuplace2023/raw"
         }
     ]
