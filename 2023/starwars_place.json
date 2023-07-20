@@ -6,8 +6,8 @@
             "sources": [
                 "https://raw.githubusercontent.com/iratekalypso/r-place/main/2023/starwars_place_esb_d3_stars_border.png"
             ],
-            "x": 530,
-            "y": 731
+            "x": 30,
+            "y": 231
         }
     ],
     "whitelist": [
@@ -17,7 +17,7 @@
         },
         {
             "name": "r/osuplace",
-            "url": "https://rentry.org/osuplace2023/raw"
+            "url": "https://osu.place/e/osuplace2023.json"
         }
     ]
 }
